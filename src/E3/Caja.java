@@ -16,9 +16,10 @@ public class Caja<T> {
         return this.data;
     }
 
-    public void mostrarArr(T[] arr) {
+    // Metodo De La Caja
+    public void mostrarArr() {
         int count = 0;
-        for (T item : arr) {
+        for (T item : this.data) {
             System.out.println("T[" + count + "]: ");
             System.out.println(item);
             count++;
