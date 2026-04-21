@@ -1,5 +1,5 @@
-﻿package Logica;
-// tipo dato generico
+﻿package E1.Logica;
+// tipo dato generico <T>: cualquier tipo
 public class Caja <T> {
 
     private T contenido;
