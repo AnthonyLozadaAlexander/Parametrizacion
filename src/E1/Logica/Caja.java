@@ -1,4 +1,4 @@
-﻿package E1.Logica;
+package E1.Logica;
 // tipo dato generico <T>: cualquier tipo
 public class Caja <T> {
 
