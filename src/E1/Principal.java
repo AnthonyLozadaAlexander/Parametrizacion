@@ -1,4 +1,4 @@
-﻿package E1;
+package E1;
 
 import E1.Logica.Caja;
 
