@@ -1,4 +1,4 @@
-﻿package E2;
+package E2;
 
 public class ContainerPar <K, V>{
     private K contenidoK;
